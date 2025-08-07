@@ -99,3 +99,5 @@ b) independent
 c) solo  
 d) invalid  
 **Answer:** a
+
+**More Sample Question: [CompTIA XK0-005 Sample Questions](https://www.edusum.com/comptia/comptia-linux-xk0-005-certification-sample-questions)**
