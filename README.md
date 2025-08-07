@@ -1,9 +1,3 @@
-# CompTIA-XK0-005-Free-Certification
-Includes practice questions, study guides, exam tips, and useful links to help you prepare and pass — all 100% free.
-
-Welcome to your free resource hub for the CompTIA Linux+ (XK0-005) Certification Exam!
-If you're preparing to earn your Linux+ certification, this guide will provide you with the essential free materials, resources, and study strategies to help you succeed — all without spending a dime.
-
 # 🐧 CompTIA-XK0-005-Free-Certification-Exam-Material
 
 Your one-stop **free** resource hub for the **CompTIA Linux+ (XK0-005)** Certification Exam — includes **practice questions**, **study guides**, **exam tips**, and **useful links** to help you prepare and pass.
