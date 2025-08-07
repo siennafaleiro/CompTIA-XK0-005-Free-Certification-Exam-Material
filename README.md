@@ -1,4 +1,4 @@
-# CompTIA-XK0-005-Free-Certification-Exam-Material
+# CompTIA-XK0-005-Free-Certification
 Includes practice questions, study guides, exam tips, and useful links to help you prepare and pass — all 100% free.
 
 Welcome to your free resource hub for the CompTIA Linux+ (XK0-005) Certification Exam!
@@ -31,7 +31,7 @@ Practice with real-style questions to get familiar with the format and difficult
 ---
 
 ### 2. ✅ Edusum Free Exam Practice Tests
-- 🔗 [Edusum XK0-005 Free Practice Questions](https://www.edusum.com/comptia/xk0-005-comptia-linux)
+- 🔗 [Edusum XK0-005 Free Practice Test](https://www.edusum.com/comptia/xk0-005-comptia-linux)
 
 **Features:**
 - Timed mock exams  
