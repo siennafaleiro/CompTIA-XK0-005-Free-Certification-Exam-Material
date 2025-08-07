@@ -1,4 +1,4 @@
-📝 CompTIA Linux+ (XK0-005) Exam Summary:
+## **📝 CompTIA Linux+ (XK0-005) Exam Summary:**
 
 | **Exam Detail**         | **Information**                                           |
 |-------------------------|-----------------------------------------------------------|
