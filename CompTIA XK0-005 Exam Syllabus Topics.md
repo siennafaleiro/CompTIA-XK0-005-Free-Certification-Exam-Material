@@ -1,5 +1,6 @@
 ## **CompTIA XK0-005 Exam Syllabus Topics:**
 
+
 | Domain                                 | Percentage | Objectives                                                                                                                                         |
 |----------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **System Management**                  | 32%        | - Summarize Linux fundamentals.  <br> - Given a scenario, manage files and directories.  <br> - Given a scenario, configure and manage storage using the appropriate tools.  <br> - Given a scenario, configure and use the appropriate processes and services.  <br> - Given a scenario, use the appropriate networking tools or configuration files.  <br> - Given a scenario, build and install software.  <br> - Given a scenario, manage software configurations. |
@@ -7,3 +8,4 @@
 | **Scripting, Containers, and Automation** | 19%     | - Given a scenario, create simple shell scripts to automate common tasks.  <br> - Given a scenario, perform basic container operations.  <br> - Given a scenario, perform basic version control using Git.  <br> - Summarize common infrastructure as code technologies.  <br> - Summarize container, cloud, and orchestration concepts. |
 | **Troubleshooting**                    | 28%        | - Given a scenario, analyze and troubleshoot storage issues.  <br> - Given a scenario, analyze and troubleshoot network resource issues.  <br> - Given a scenario, analyze and troubleshoot central processing unit (CPU) and memory issues.  <br> - Given a scenario, analyze and troubleshoot user access and file permissions.  <br> - Given a scenario, use systemd to diagnose and resolve common problems with a Linux system. |
 
+**More Info: [CompTIA XK0-005 Exam Syllabus Topics](https://www.edusum.com/comptia/comptia-linux-linux-plus-exam-syllabus)**
